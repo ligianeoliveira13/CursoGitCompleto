@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Home Page</title>
     </head>
-    <body background="madeira.jpg">
+    <body background="madeira1.jpg">
         <h3><p align="center"><a href="cadastro.jsp">PAGINA DE CADASTRO</a></p></h3>
     </body>
 </html>
