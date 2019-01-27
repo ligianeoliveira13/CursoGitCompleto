@@ -11,7 +11,11 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>Home Page</title>
     </head>
-    <body background="madeira.jpg">
+<<<<<<< HEAD
+    <body background="madeira1.jpg">
+=======
+    <body background="madeira2.jpg">
+>>>>>>> 947cb1a0a495b8a95e53c2a630beb80b60e6f208
         <h3><p align="center"><a href="cadastro.jsp">PAGINA DE CADASTRO</a></p></h3>
     </body>
 </html>
