@@ -14,7 +14,6 @@ public class Conexao {
     private String host;
     private Connection connection = null;
  
-    //construtor
     public Conexao(String host, String database, String user, String password) {
  
         this.host = host; //geralmente localhost
